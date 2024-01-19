@@ -1,0 +1,365 @@
+{
+    "AAC_CHAIR": {
+        "relative_position": [
+            -0.41213762760162354,
+            -2.5620954036712646,
+            -0.394623339176178
+        ],
+        "directions": [
+            "left",
+            "back",
+            "down"
+        ],
+        "color": "Texture file"
+    },
+    "AAC_CHAIR_01": {
+        "relative_position": [
+            0.5221188068389893,
+            -4.249011993408203,
+            -0.394623339176178
+        ],
+        "directions": [
+            "right",
+            "back",
+            "down"
+        ],
+        "color": "Texture file"
+    },
+    "AAC_CHAIR_02": {
+        "relative_position": [
+            -1.989410400390625,
+            -6.8917107582092285,
+            -0.394623339176178
+        ],
+        "directions": [
+            "left",
+            "back",
+            "down"
+        ],
+        "color": "Texture file"
+    },
+    "Camera": {
+        "relative_position": [
+            -2.1511080265045166,
+            -7.877811908721924,
+            4.048309326171875
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "No color"
+    },
+    "coffee_machine_001": {
+        "relative_position": [
+            3.781236171722412,
+            -1.8428964614868164,
+            1.083130121231079
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a": {
+        "relative_position": [
+            4.342703342437744,
+            0.0,
+            3.0886342525482178
+        ],
+        "directions": [
+            "right",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a.001": {
+        "relative_position": [
+            1.5962672233581543,
+            8.363398551940918,
+            3.0886342525482178
+        ],
+        "directions": [
+            "right",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a.002": {
+        "relative_position": [
+            -4.26256799697876,
+            -1.0786857604980469,
+            3.0886342525482178
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "FRAME_01": {
+        "relative_position": [
+            3.9697022438049316,
+            -2.4019994735717773,
+            1.088529109954834
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "FRAME_02": {
+        "relative_position": [
+            3.9697022438049316,
+            -2.4019994735717773,
+            1.088529109954834
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "fridge_001": {
+        "relative_position": [
+            -3.341146945953369,
+            7.887773513793945,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "front"
+        ],
+        "color": "Texture file"
+    },
+    "kitchen_table_001": {
+        "relative_position": [
+            1.6200941801071167,
+            7.769627571105957,
+            0.0
+        ],
+        "directions": [
+            "right",
+            "front"
+        ],
+        "color": "Texture file"
+    },
+    "LAMP": {
+        "relative_position": [
+            3.5098180770874023,
+            -3.6757264137268066,
+            1.0884273052215576
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "Light_main": {
+        "relative_position": [
+            -0.6758638620376587,
+            -3.4231739044189453,
+            3.643059015274048
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": [
+            0.88,
+            0.19,
+            0.23
+        ],
+        "light_power": 4000.0
+    },
+    "LIGHT_PENDANT": {
+        "relative_position": [
+            -0.7490298748016357,
+            -1.8311325311660767,
+            0.407758504152298
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "Plane": {
+        "relative_position": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "directions": [
+            "center"
+        ],
+        "color": null
+    },
+    "Plane.001": {
+        "relative_position": [
+            0.0,
+            -4.629233360290527,
+            2.938694715499878
+        ],
+        "directions": [
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.002": {
+        "relative_position": [
+            0.0,
+            4.614812850952148,
+            2.938694715499878
+        ],
+        "directions": [
+            "front",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.003": {
+        "relative_position": [
+            -4.37343168258667,
+            -0.010378316044807434,
+            2.938694715499878
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.004": {
+        "relative_position": [
+            4.338601589202881,
+            -0.010378316044807434,
+            2.938694715499878
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.005": {
+        "relative_position": [
+            0.0,
+            0.0,
+            5.848741054534912
+        ],
+        "directions": [
+            "up"
+        ],
+        "color": null
+    },
+    "PLATES": {
+        "relative_position": [
+            -0.6893343925476074,
+            -3.785633087158203,
+            1.1154581308364868
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "Point": {
+        "relative_position": [
+            3.5651705265045166,
+            -3.6690807342529297,
+            1.6130831241607666
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": [
+            1.0,
+            0.57,
+            0.19
+        ],
+        "light_power": 100.0
+    },
+    "scratching_post_001": {
+        "relative_position": [
+            3.301748275756836,
+            -7.120224952697754,
+            0.0
+        ],
+        "directions": [
+            "right",
+            "back"
+        ],
+        "color": "Texture file"
+    },
+    "SIDE_BOARD": {
+        "relative_position": [
+            3.793879270553589,
+            2.8807733058929443,
+            -0.47082042694091797
+        ],
+        "directions": [
+            "right",
+            "front",
+            "down"
+        ],
+        "color": "Texture file"
+    },
+    "TABLE": {
+        "relative_position": [
+            0.14145874977111816,
+            2.2167716026306152,
+            -0.394623339176178
+        ],
+        "directions": [
+            "right",
+            "front",
+            "down"
+        ],
+        "color": "Texture file"
+    },
+    "VASE_CYL": {
+        "relative_position": [
+            -0.5932642221450806,
+            -5.051732540130615,
+            1.116528034210205
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "washing_machine_001": {
+        "relative_position": [
+            -1.8631503582000732,
+            7.69110107421875,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "front"
+        ],
+        "color": "Texture file"
+    }
+}

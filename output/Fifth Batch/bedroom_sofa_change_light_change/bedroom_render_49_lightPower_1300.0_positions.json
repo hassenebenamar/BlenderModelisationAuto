@@ -1,0 +1,316 @@
+{
+    "bed_001": {
+        "relative_position": [
+            3.1876213550567627,
+            1.5803685188293457,
+            0.0
+        ],
+        "directions": [
+            "right",
+            "front"
+        ],
+        "color": "Texture file"
+    },
+    "box_001": {
+        "relative_position": [
+            -4.134608268737793,
+            1.1572458744049072,
+            1.1018784046173096
+        ],
+        "directions": [
+            "left",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "Camera": {
+        "relative_position": [
+            4.158891677856445,
+            3.7842092514038086,
+            2.4483094215393066
+        ],
+        "directions": [
+            "right",
+            "front",
+            "up"
+        ],
+        "color": "No color"
+    },
+    "camera_001": {
+        "relative_position": [
+            -3.7636327743530273,
+            0.9782426953315735,
+            1.0870296955108643
+        ],
+        "directions": [
+            "left",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "closet_001": {
+        "relative_position": [
+            -3.744434118270874,
+            -3.188032627105713,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "back"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a": {
+        "relative_position": [
+            -0.8446141481399536,
+            4.575214862823486,
+            3.549677610397339
+        ],
+        "directions": [
+            "left",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a.001": {
+        "relative_position": [
+            -4.365809440612793,
+            -1.9971799850463867,
+            1.6608078479766846
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a.002": {
+        "relative_position": [
+            0.054076194763183594,
+            4.575214862823486,
+            2.645815134048462
+        ],
+        "directions": [
+            "right",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "CW1a.003": {
+        "relative_position": [
+            0.05544126033782959,
+            4.575214862823486,
+            3.549677610397339
+        ],
+        "directions": [
+            "right",
+            "front",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "dumbbell_002": {
+        "relative_position": [
+            -3.875131130218506,
+            -1.2586688995361328,
+            0.15846511721611023
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "lamp_001": {
+        "relative_position": [
+            -4.077810287475586,
+            -0.8559161424636841,
+            1.1079477071762085
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "Light.001": {
+        "relative_position": [
+            -4.06573486328125,
+            -0.5708734393119812,
+            1.5954642295837402
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": [
+            1.0,
+            0.64,
+            0.05
+        ],
+        "light_power": 12.0
+    },
+    "Light_main": {
+        "relative_position": [
+            -0.860663652420044,
+            -0.7364903092384338,
+            3.088362693786621
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": [
+            0.94,
+            0.88,
+            0.79
+        ],
+        "light_power": 1300.0
+    },
+    "LIGHT_PENDANT": {
+        "relative_position": [
+            -0.7758237719535828,
+            -0.38653504848480225,
+            0.4437156617641449
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": "Texture file"
+    },
+    "lounge_chair_001": {
+        "relative_position": [
+            -3.4921650886535645,
+            0.0,
+            0.0
+        ],
+        "directions": [
+            "left"
+        ],
+        "color": "Texture file"
+    },
+    "office_table_001": {
+        "relative_position": [
+            -3.8960251808166504,
+            0.44583600759506226,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "front"
+        ],
+        "color": "Texture file"
+    },
+    "Plane": {
+        "relative_position": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "directions": [
+            "center"
+        ],
+        "color": null
+    },
+    "Plane.001": {
+        "relative_position": [
+            0.0,
+            -4.629233360290527,
+            2.938694715499878
+        ],
+        "directions": [
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.002": {
+        "relative_position": [
+            0.0,
+            4.614812850952148,
+            2.938694715499878
+        ],
+        "directions": [
+            "front",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.003": {
+        "relative_position": [
+            -4.37343168258667,
+            -0.010378316044807434,
+            2.938694715499878
+        ],
+        "directions": [
+            "left",
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.004": {
+        "relative_position": [
+            4.338601589202881,
+            -0.010378316044807434,
+            2.938694715499878
+        ],
+        "directions": [
+            "right",
+            "back",
+            "up"
+        ],
+        "color": null
+    },
+    "Plane.005": {
+        "relative_position": [
+            0.0,
+            0.0,
+            5.877926349639893
+        ],
+        "directions": [
+            "up"
+        ],
+        "color": null
+    },
+    "sofa_001": {
+        "relative_position": [
+            -0.3127276599407196,
+            3.5786404609680176,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "front"
+        ],
+        "color": [
+            0.3,
+            0.775,
+            0.707,
+            1.0
+        ]
+    },
+    "tv_wall_001": {
+        "relative_position": [
+            -0.3198976218700409,
+            -4.197942733764648,
+            0.0
+        ],
+        "directions": [
+            "left",
+            "back"
+        ],
+        "color": "Texture file"
+    }
+}
